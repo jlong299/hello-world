@@ -2,4 +2,4 @@
 
 My first repository on 
 
-I love :coffee: :milk: and :strawberry:.
+I love :coffee: :apple: and :strawberry:.
